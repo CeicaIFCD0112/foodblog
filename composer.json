@@ -1,0 +1,19 @@
+{
+    "name": "alumnotarde/foodblog",
+    "description": "Blog Multiusuario",
+    "type": "project",
+    "license": "Open Source",
+    "autoload": {
+        "psr-4": {
+            "Alumnotarde\\Foodblog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CeicaIFCD0112",
+            "email": "rod.balseiro.ricardo@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
