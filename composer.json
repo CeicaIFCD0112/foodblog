@@ -5,7 +5,7 @@
     "license": "Open Source",
     "autoload": {
         "psr-4": {
-            "Alumnotarde\\Foodblog\\": "src/"
+            "App": "src/"
         }
     },
     "authors": [
@@ -15,5 +15,8 @@
         }
     ],
     "minimum-stability": "beta",
-    "require": {}
+    "require": {
+        "illuminate/database": "^11.10",
+        "illuminate/events": "^11.10"
+    }
 }
