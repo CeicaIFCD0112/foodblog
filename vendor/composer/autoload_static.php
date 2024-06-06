@@ -62,7 +62,7 @@ class ComposerStaticInit249206dea31a3d30fb3de5713deb1276
         ),
         'A' => 
         array (
-            'Alumnotarde\\Foodblog\\' => 21,
+            'App\\' => 4,
         ),
     );
 
@@ -109,9 +109,9 @@ class ComposerStaticInit249206dea31a3d30fb3de5713deb1276
         ),
         'Illuminate\\Support\\' => 
         array (
-            0 => __DIR__ . '/..' . '/illuminate/macroable',
+            0 => __DIR__ . '/..' . '/illuminate/collections',
             1 => __DIR__ . '/..' . '/illuminate/conditionable',
-            2 => __DIR__ . '/..' . '/illuminate/collections',
+            2 => __DIR__ . '/..' . '/illuminate/macroable',
             3 => __DIR__ . '/..' . '/illuminate/support',
         ),
         'Illuminate\\Pipeline\\' => 
@@ -154,7 +154,7 @@ class ComposerStaticInit249206dea31a3d30fb3de5713deb1276
         array (
             0 => __DIR__ . '/..' . '/brick/math/src',
         ),
-        'Alumnotarde\\Foodblog\\' => 
+        'App\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
